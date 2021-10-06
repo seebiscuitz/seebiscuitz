@@ -21,6 +21,8 @@ Current projects include:
 
 <img align="left" alt="x | VBA" width="22px" src="https://img.icons8.com/metro/26/000000/vb.png" />VBA  
 
+<img align="left" alt="x | Powershell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg" />Powershell 
+
 
 ---
 
